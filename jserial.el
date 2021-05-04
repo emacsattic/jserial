@@ -1,4 +1,5 @@
-;; jserial.el - java serial version generator
+;;; jserial.el --- Java serial version generator
+
 ;; $Revision: 1.8 $
 ;; $Date: 2000/09/08 12:56:24 $
 
